@@ -15,7 +15,7 @@ PyYAML==6.0.2
 fastapi==0.115.6
 uvicorn==0.32.1
 websockets>=12.0
-python-multipart==0.0.9
+python-multipart==0.0.22
 
 # YooKassa SDK
 yookassa==3.9.0
